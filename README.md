@@ -1,3 +1,2 @@
 
-"# Bikeshare Projct programming data science with python " 
-documentation note
+" part 3 Refactor code: posted project2 on github"
